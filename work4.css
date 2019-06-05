@@ -1,0 +1,11 @@
+footer div{
+	background-color: grey;
+	margin-top: 20px;
+	height: 100px;
+	padding: 45px
+}
+
+.border-radius nav.navbar{
+	border-radius: 0;
+	margin-bottom: 0px;
+}
